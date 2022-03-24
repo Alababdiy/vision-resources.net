@@ -13,15 +13,15 @@
         "dangerColor": "#143f33",
         "mainFont": "Outfit",
         "titleFont": "Otomanopee One",
-        "display1Font": "IBM Plex Sans Arabic",
+        "display1Font": "Changa",
         "display1Size": 4.8,
-        "display2Font": "IBM Plex Sans Arabic",
+        "display2Font": "Changa",
         "display2Size": 3.6,
-        "display5Font": "IBM Plex Sans Arabic",
+        "display5Font": "Changa",
         "display5Size": 2.2,
-        "display7Font": "IBM Plex Sans Arabic",
+        "display7Font": "Changa",
         "display7Size": 1.2,
-        "display4Font": "IBM Plex Sans Arabic",
+        "display4Font": "Changa",
         "display4Size": 1,
         "isRoundedButtons": true,
         "isGhostButtonBorder": true,
@@ -48,24 +48,9 @@
     "versionFirst": "5.4.1",
     "siteFonts": [
       {
-        "css": "'Otomanopee One', sans-serif",
-        "name": "Otomanopee One",
-        "url": "https://fonts.googleapis.com/css?family=Otomanopee+One:400"
-      },
-      {
-        "css": "'Outfit', sans-serif",
-        "name": "Outfit",
-        "url": "https://fonts.googleapis.com/css?family=Outfit:100,200,300,400,500,600,700,800,900"
-      },
-      {
-        "css": "'Cairo', sans-serif",
-        "name": "Cairo",
-        "url": "https://fonts.googleapis.com/css?family=Cairo:200,300,400,500,600,700,800,900"
-      },
-      {
-        "css": "'IBM Plex Sans Arabic', sans-serif",
-        "name": "IBM Plex Sans Arabic",
-        "url": "https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Arabic:100,200,300,400,500,600,700"
+        "css": "'Changa', sans-serif",
+        "name": "Changa",
+        "url": "https://fonts.googleapis.com/css?family=Changa:200,300,400,500,600,700,800"
       }
     ],
     "imageResize": true,
